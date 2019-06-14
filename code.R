@@ -4,3 +4,5 @@ View(data)
 View(data)
 View(data)
 library(dplyr)
+print(data)
+
