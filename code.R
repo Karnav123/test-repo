@@ -1,1 +1,2 @@
-read.csv("data.csv")
+data <- read.csv("data.csv")
+View(data)
